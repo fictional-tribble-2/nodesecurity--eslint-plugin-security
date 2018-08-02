@@ -1,5 +1,7 @@
 # eslint-plugin-security
 
+[![GuardRails Staging badge](https://badges.staging.guardrails.io/fictional-tribble/nodesecurity--eslint-plugin-security.svg)](https://www.staging.guardrails.io)
+
 ESLint rules for Node Security
 
 This project will help identify potential security hotspots, but finds a lot of false positives which need triage by a human.
