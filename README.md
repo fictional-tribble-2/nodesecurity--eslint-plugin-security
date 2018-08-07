@@ -1,6 +1,6 @@
 # eslint-plugin-security
 
-[![GuardRails Staging badge](https://badges.staging.guardrails.io/fictional-tribble/nodesecurity--eslint-plugin-security.svg)](https://www.staging.guardrails.io)
+[![GuardRails Staging badge](https://badges.staging.guardrails.io/fictional-tribble/nodesecurity--eslint-plugin-security.svg)](https://www.staging.guardrails.io) [![GuardRails badge](https://badges.production.guardrails.io/fictional-tribble/nodesecurity--eslint-plugin-security.svg)](https://www.guardrails.io)
 
 ESLint rules for Node Security
 
